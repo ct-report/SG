@@ -1,7 +1,7 @@
 # SG
 Contact Tracing - Singapore
 
-**TraceTogether** - solution based on BlueTrace protocol, that relies on decentralised bluetooth proximity data collection (device) + centralized contact tracing/matching (backend).
+**TraceTogether** - solution based on BlueTrace protocol, that relies on decentralised bluetooth proximity data collection (device) + centralized ID & contact tracing/matching management (backend).
 
 It requires to provide mobile phone number + Singapore NRIC - National Registration Identity Card (issued to citizens and permanent residents) or Passport Number (visitors) in order to prevent abuses & allow contacts by the Ministry of Health.
 
